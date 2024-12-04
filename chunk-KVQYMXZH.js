@@ -1,1 +1,0 @@
-import{E as t,Q as e,R as m,b as i,e as n,x as r}from"./chunk-UDO3ISF6.js";var a=[r,t,m,e],g=(()=>{class o{static \u0275fac=function(p){return new(p||o)};static \u0275mod=n({type:o});static \u0275inj=i({imports:[a,r,t,m,e]})}return o})();export{g as a};
